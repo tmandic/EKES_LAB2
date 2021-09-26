@@ -6,6 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - skrf
+  - scikit-rf
   - ngspice-lib
   - pyspice
