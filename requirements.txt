@@ -3,4 +3,4 @@ matplotlib
 pandas
 scikit-rf
 PySpice
-libngspice0
+libngspice
