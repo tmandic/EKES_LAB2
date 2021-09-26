@@ -2,4 +2,5 @@ numpy
 matplotlib
 pandas
 scikit-rf
-PySpice==1.4.2
+PySpice
+libngspice0
