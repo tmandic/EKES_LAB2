@@ -1,0 +1,11 @@
+name: EKES_LAB2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - skrf
+  - ngspice-lib
+  - pyspice
